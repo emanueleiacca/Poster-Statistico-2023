@@ -29,6 +29,7 @@ Sono state utilizzate tecniche statistiche come la regressione lineare ordinaria
 ## Risultati
 
 Le analisi hanno rivelato correlazioni tra il consumo energetico delle famiglie e l'inquinamento atmosferico, nonché un aumento delle temperature medie e una diminuzione delle precipitazioni. Sono state individuate variabili significative che influenzano l'inquinamento e l'aria, contribuendo a una comprensione più approfondita della situazione.
+link al poster statistico creato: https://infograph.venngage.com/view/89e7c5ff-d76f-4a8a-999b-359ac3d15a7a
 
 ## Contribuzione
 
